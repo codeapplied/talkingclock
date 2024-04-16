@@ -1,0 +1,100 @@
+{
+  "schedule": [
+    {
+      "hour": 0,
+      "announcement": "It's midnight. Another hour begins."
+    },
+    {
+      "hour": 1,
+      "announcement": "It's 1 o'clock. Time flies, doesn't it?"
+    },
+    {
+      "hour": 2,
+      "announcement": "It's 2 o'clock. Keep marching on!"
+    },
+    {
+      "hour": 3,
+      "announcement": "It's 3 o'clock. Stay focused!"
+    },
+    {
+      "hour": 4,
+      "announcement": "It's 4 o'clock. Keep up the good work!"
+    },
+    {
+      "hour": 5,
+      "announcement": "It's 5 o'clock. Halfway through the day!"
+    },
+    {
+      "hour": 6,
+      "announcement": "It's 6 o'clock. Evening is on the horizon."
+    },
+    {
+      "hour": 7,
+      "announcement": "It's 7 o'clock. Keep pushing forward!"
+    },
+    {
+      "hour": 8,
+      "announcement": "It's 8 o'clock. Keep the momentum going!"
+    },
+    {
+      "hour": 9,
+      "announcement": "It's 9 o'clock. Stay on track!"
+    },
+    {
+      "hour": 10,
+      "announcement": "It's 10 o'clock. Keep shining bright!"
+    },
+    {
+      "hour": 11,
+      "announcement": "It's 11 o'clock. Almost time for a break!"
+    },
+    {
+      "hour": 12,
+      "announcement": "It's noon. The day is at its peak."
+    },
+    {
+      "hour": 13,
+      "announcement": "It's 1 o'clock. Keep the energy up!"
+    },
+    {
+      "hour": 14,
+      "announcement": "It's 2 o'clock. Keep pushing through!"
+    },
+    {
+      "hour": 15,
+      "announcement": "It's 3 o'clock. You're doing great!"
+    },
+    {
+      "hour": 16,
+      "announcement": "It's 4 o'clock. Keep up the fantastic work!"
+    },
+    {
+      "hour": 17,
+      "announcement": "It's 5 o'clock. Time to wind down soon!"
+    },
+    {
+      "hour": 18,
+      "announcement": "It's 6 o'clock. Evening is here."
+    },
+    {
+      "hour": 19,
+      "announcement": "It's 7 o'clock. Keep going strong!"
+    },
+    {
+      "hour": 20,
+      "announcement": "It's 8 o'clock. You're doing amazing!"
+    },
+    {
+      "hour": 21,
+      "announcement": "It's 9 o'clock. Stay determined!"
+    },
+    {
+      "hour": 22,
+      "announcement": "It's 10 o'clock. Keep up the perseverance!"
+    },
+    {
+      "hour": 23,
+      "announcement": "It's 11 o'clock. Keep up the good vibes!"
+    }
+  ]
+}
